@@ -1,4 +1,5 @@
 # JVC dark theme
+(outdated since august 2020)
 Theme Sombre pour jeuxvideo.com
 
 <img src="images/screenjvc.PNG" alt="drawing" width=55%/> 
